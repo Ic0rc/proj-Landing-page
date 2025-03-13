@@ -6,7 +6,7 @@ Projeto de criação de uma landing page para documentar projetos. <p></p>
 
 <p>
 </p>
-<h1>⚒️Ferramentas utilizadas</h1><p></p>
+<h2>⚒️Ferramentas utilizadas</h2>
 - Javascript<p></p> 
 - HTML<p></p>
 - CSS<p></p>
